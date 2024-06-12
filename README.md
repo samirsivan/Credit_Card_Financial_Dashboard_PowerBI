@@ -41,3 +41,10 @@ Overview YTD:
    performance metrics and trends.
  3. Shared actionable insights with stakeholders based on
    dashboard findings to support decision-making processes.
+
+# Credit Card Transaction Report
+Dive into transaction insights with interactive KPIs and graphs, showcasing revenue by income, marital status, dependents, education, and weekly trends.
+
+
+# Credit Card Customer Report
+Explore customer-centric analytics including revenue by gender, job role, education, expenditure type, customer acquisition cost, quarterly revenue, and total transaction amounts.
