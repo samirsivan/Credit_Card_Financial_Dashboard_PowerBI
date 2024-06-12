@@ -44,7 +44,7 @@ Overview YTD:
 
 # Credit Card Transaction Report
 Dive into transaction insights with interactive KPIs and graphs, showcasing revenue by income, marital status, dependents, education, and weekly trends.
-
+![Screenshot 2024-06-12 135958](https://github.com/samirsivan/Credit_Card_Financial_Dashboard_PowerBI/assets/172359838/efcbd001-e62b-41d7-9714-e046cab2a8e2)
 
 # Credit Card Customer Report
 Explore customer-centric analytics including revenue by gender, job role, education, expenditure type, customer acquisition cost, quarterly revenue, and total transaction amounts.
