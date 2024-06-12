@@ -10,6 +10,8 @@
  Github:
  https://github.com/samirsivan/Credit_Card_Financial_Dashboard_PowerBI
 
+The primary files utilized for dashboard creation are cc_details.csv and cust_details.csv. Meanwhile, cc_add.csv and cust_add.csv serve as comparable files, intended for subsequent verification of the dashboard's ability to automatically retrieve and update data.
+
 # Import Data to SQL Database
  1. Prepare csv file 
  2. Create tables in SQL 
