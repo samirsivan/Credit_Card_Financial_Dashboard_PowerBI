@@ -48,3 +48,4 @@ Dive into transaction insights with interactive KPIs and graphs, showcasing reve
 
 # Credit Card Customer Report
 Explore customer-centric analytics including revenue by gender, job role, education, expenditure type, customer acquisition cost, quarterly revenue, and total transaction amounts.
+![Screenshot 2024-06-12 140628](https://github.com/samirsivan/Credit_Card_Financial_Dashboard_PowerBI/assets/172359838/1fbaf740-a2c7-4e8f-8c67-fa312d118cb4)
